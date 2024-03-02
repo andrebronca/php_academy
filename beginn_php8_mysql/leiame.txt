@@ -1,0 +1,12 @@
+última página lida:
+data início da leitura: 01/03/2024
+data da última leitura: 
+
+Título: PHP 8 Basics
+Total de páginas: 335
+
+Tecnologias:
+    Docker (instalado v2.24.5-desktop.1)
+    Ngnix
+    MySql
+    PHP 8
