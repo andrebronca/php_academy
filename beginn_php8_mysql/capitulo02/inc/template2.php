@@ -2,9 +2,6 @@
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
 
-$title = "Beginning PHP 8 & MySql";
-$content = "Here is the main content for this page";
-
 $html ="
 <!doctype html>
 <html lang='pt-br'>
@@ -19,4 +16,5 @@ $html ="
 $content
 </body>
 </html>";
+
 echo $html;
