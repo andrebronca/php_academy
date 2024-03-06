@@ -1,6 +1,6 @@
-última página lida: 29 (49/335)
+última página lida: 75 (93/335)
 data início da leitura: 01/03/2024
-data da última leitura: 
+data da última leitura: 03/03/2024
 
 Título: PHP 8 Basics
 Total de páginas: 335
