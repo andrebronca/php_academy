@@ -16,7 +16,7 @@ if (!$emailErr){
     echo $emailErr;
 }
 
-
+$url = "?name={$name}&email={$email}";
 ?>
 <br>
-<a href="basicForm.php">voltar</a>
+<a href="basicForm.php<?= $url ?>">voltar</a>
